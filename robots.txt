@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://imphedwil.github.io/sitemap
+Sitemap: https://imphedwil.github.io/app/sitemap
+Sitemap: https://imphedwil.github.io/assets/sitemap
+Sitemap: https://imphedwil.github.io/css/sitemap
+Sitemap: https://imphedwil.github.io/includes/sitemap
+Sitemap: https://imphedwil.github.io/item/sitemap
+Sitemap: https://imphedwil.github.io/src/sitemap
